@@ -1,1 +1,0 @@
-NORAM QA Validation Tool
